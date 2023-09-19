@@ -14,3 +14,6 @@ Faça um **fork** deste repositório e realize as seguintes atividades:
 - [ ] Implemente a função excluirUltimoElemento
 - [ ] Implemente a função excluirPrimeiroElemento
 - [ ] Implemente a função exibirReverso
+
+joao.silva681@fatec.sp.gov.br
+João Victor Alves da Silva
